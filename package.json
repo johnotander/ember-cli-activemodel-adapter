@@ -1,14 +1,14 @@
 {
-  "name": "ember-cli-addon-template",
+  "name": "ember-cli-activemodel-adapter",
   "version": "0.0.1",
-  "description": "A template to get me started creating ember-cli addons.",
+  "description": "An adapter for activemodel.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ember-cli-addon-template.git"
+    "url": "https://github.com/ember-cli-activemodel-adapter.git"
   },
   "keywords": [
     "ember-addon",
@@ -16,6 +16,10 @@
     "ember-cli",
     "template"
   ],
+  "bugs": {
+    "url": "https://github.com/johnotander/ember-cli-activemodel-adapter/issues"
+  },
+  "homepage": "https://github.com/johnotander/ember-cli-activemodel-adapter",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "license": "MIT"
 }

@@ -4,11 +4,17 @@ A template to get me started creating an [ember-cli](http://ember-cli.com) addon
 
 ## Installation
 
-TODO: Fill out installation details.
+Install the Active Model adapter from npm:
 
-## Usage
+```
+$ npm install --save ember-cli-activemodel-adapter
+```
 
-TODO: Fill out usage details.
+Then, you need to set the API URL as an environment variable:
+
+```javascript
+Ember.ENV.ACTIVE_MODEL_API_URL = 'http://example.com/api/v1';
+```
 
 ## License
 
