@@ -1,6 +1,6 @@
-# Ember CLI Addon Template
+# Active Model Adapter
 
-A template to get me started creating an [ember-cli](http://ember-cli.com) addon.
+An [ember-cli](http://ember-cli.com) addon for an Active Model Adapter for Ember.
 
 ## Installation
 
