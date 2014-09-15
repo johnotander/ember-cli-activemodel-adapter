@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-activemodel-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An adapter for activemodel.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "ember-addon",
     "ember",
     "ember-cli",
-    "template"
+    "activemodel",
+    "adapter"
   ],
   "bugs": {
     "url": "https://github.com/johnotander/ember-cli-activemodel-adapter/issues"
